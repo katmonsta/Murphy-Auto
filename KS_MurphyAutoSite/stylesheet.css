@@ -15,11 +15,14 @@ body{
 }
 
 #welcome{
-  float: left;
-  position: absolute;
-  top: 100pt;
-  padding-left: 20px;
-  font-size: 14pt;
+	z-index:100;
+    position: absolute;
+	bottom: 0%;
+	display: block;
+	padding: 20px;
+    text-align: center;
+    font-size: 12px;
+	width: 100%;
 }
 
 
@@ -40,6 +43,8 @@ body{
 #menu a:hover{
   color: white;
 }
+
+
 
 #pgBtn {
   float: right;
