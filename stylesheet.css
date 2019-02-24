@@ -1,0 +1,59 @@
+body{
+   padding: 0;
+   margin: 0;
+   overflow-y: scroll;
+   font-family: verdana, sans-serif;
+}
+
+#logo{
+	width: 200px;
+}
+
+#rowName{
+	padding-left:10%;
+	padding-bottom: 1%;
+	color: #D92B04;
+}
+	
+.row{
+ width: 90%;
+ padding-left:10%;
+}
+
+#imageIndex{
+  display: block;
+  width: 100%;
+}
+
+#welcome{
+    position: absolute;
+	display: block;
+    text-align: center;
+    font-size: 12px;
+	width: 100%;
+	padding-top: 35%;
+}
+
+
+
+
+
+#head {
+  float:left;
+  color: #A3E4D7;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#inventory {
+text-align: justify;	
+	
+}	
+
+
+
+
+
+
